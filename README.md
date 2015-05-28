@@ -10,14 +10,14 @@ Amateur radio booth at Makerfaire Singapore 2015
 ## When
 Weekend of July 11 and 12, July 2015
 - Friday
-  14:00 - 20:00 Setup
+ - 14:00 - 20:00 Setup
 - Saturday
-  09:00 - 11:00 Setup
-  11:00 - 19:00 Showtime
-  19:15 - 21:00 Networking Dinner
+ - 09:00 - 11:00 Setup
+ - 11:00 - 19:00 Showtime
+ - 19:15 - 21:00 Networking Dinner
 - Sunday
-  10:00 - 18:00 Showtime
-  18:00 - 19:00 Tear Down
+ - 10:00 - 18:00 Showtime
+ - 18:00 - 19:00 Tear Down
 
 ## What
 - A 2m\*2m booth in the main hall with a 1.5m\*0.3m table and a chair (or two). We need to supply everything else.
