@@ -7,17 +7,47 @@ Amateur radio booth at Makerfaire Singapore 2015
 ## Where
 [15 Tampines St 11 Singapore 529454](https://www.google.com/maps?q=15+Tampines+St+11+Singapore+529454)
 
-## When
-Weekend of July 11 and 12, July 2015
-- Friday
- - 14:00 - 20:00 Setup
-- Saturday
- - 09:00 - 11:00 Setup
- - 11:00 - 19:00 Showtime
- - 19:15 - 21:00 Networking Dinner
-- Sunday
- - 10:00 - 18:00 Showtime
- - 18:00 - 19:00 Tear Down
+- Indoor exhibit: booth E12, near the middle of page 1 of the [Floor Plan](https://drive.google.com/file/d/0B7SYj-AL9ElPUDJuNE52d1BBV1E/view). Note that HackerspaceSG booths are the adjacent orange area labelled T16.
+- Outdoor exhibit: sports field to the west of the building
+
+## Schedule
+
+### Friday 2015-07-10
+
+- 14:00 - 20:00 Setup (WHO?) TODO: which gear will arrive how? Taxi, Lalavan, bus, MRT, ...
+
+### Saturday 2015-07-11
+
+- 09:00 - 11:00 Setup (WHO?)
+
+Time  | Inside 1 | Inside 2 | Outside 1 | Outside 2
+------|----------|----------|-----------|----------
+11:00|A|B|D|E
+12:00|A|C|D|E
+13:00|B|C|F|G
+14:00|B|A|F|G
+15:00|C|A|D|E
+16:00|C|B|D|E
+17:00|A|B|F|G
+18:00|A|C|F|G
+
+- 19:00 Stow portable valueable items overnight. (WHO?)
+- 19:15 Networking dinner TODO: who wants to attend?
+
+### Sunday 2015-07-12
+
+Time  | Inside 1 | Inside 2 | Outside 1 | Outside 2
+------|----------|----------|-----------|----------
+11:00|A|B|D|E
+11:00|A|C|D|E
+12:00|B|C|F|G
+13:00|B|A|F|G
+14:00|C|A|D|E
+15:00|C|B|D|E
+16:00|A|B|F|G
+17:00|A|C|F|G
+
+- 18:00 Tear Down (WHO?) TODO: Which gear will go where, how?
 
 ## What
 - A 2m\*2m booth in the main hall with a 1.5m\*0.3m table and a chair (or two). We need to supply everything else.
@@ -36,3 +66,12 @@ Weekend of July 11 and 12, July 2015
 - Balloon(s). Lightning arrestor.
 - Probably a tent.
 - Volunteers to help on set-up/tear-down.
+
+## Schedule
+
+### Friday 2015-07-10
+
+14:00 - 20:00 Setup
+
+- (WHO?) Get equipment to venue. TODO: How? Taxi? Lalava? Something else?
+- (WHO?) Set up the indoor booth
