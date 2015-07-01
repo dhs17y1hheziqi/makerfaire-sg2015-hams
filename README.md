@@ -12,15 +12,12 @@ Amateur radio booth at Makerfaire Singapore 2015
 - (Royce) A loop antenna with an LED and handheld transceiver demonstrating the shape and variability of a transmitter's RF field.
 - (Roland) An interpretive sign: what amateur radio is, why it's interesting, etc.
 - (Darryl) A basic rig. Perhaps merely for show indoors, perhaps indoors and connected to an outdoor antenna (a cable run has been proposed but neither approved nor refused), perhaps outdoors connected to an antenna.
-- (Roland) Wire antenna suitable for HF use, making sensible use of buildings, and perhaps balloon-hoisting. (Roland to file CAAS notice in the latter case.)
 - If we can find volunteers to provide the pieces: an HF rig with a 300W linear amplifier and suitable antenna match.
+- TODO Nail this list down; additional unstructured items are fine, this is about the prepared exhibits. For the indoor element, bear space constraints in mind. N.B. BYO Internet.
 
 ## What we'll need
-- A roster of people to man the booth(s).
-- HF gear.
-- Balloon(s). Lightning arrestor.
-- Probably a tent.
-- Volunteers to help on set-up/tear-down.
+- Extension lead, ELCB/RCD for outdoor exhibit
+- Objectives for pull-up banner to encourage passers by with exhbition fatigue to stop and talk (WHO?) -> artwork (WHO?) -> printing (Roland) -> delivery (WHO?)
 
 ## Where
 [15 Tampines St 11 Singapore 529454](https://www.google.com/maps?q=15+Tampines+St+11+Singapore+529454)
@@ -40,9 +37,9 @@ Amateur radio booth at Makerfaire Singapore 2015
 
 Time  | Inside 1 | Inside 2 | Outside 1 | Outside 2
 ------|----------|----------|-----------|----------
-11:00|A|B|D|E
-12:00|A|C|D|E
-13:00|B|C|F|G
+11:00|A (WHO?)|B (WHO?)|D (WHO?)|E (WHO?)
+12:00|A|C (WHO?)|D|E
+13:00|B|C|F (WHO?)|G (WHO?)
 14:00|B|A|F|G
 15:00|C|A|D|E
 16:00|C|B|D|E
