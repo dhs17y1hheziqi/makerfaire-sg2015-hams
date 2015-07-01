@@ -11,7 +11,6 @@ Amateur radio booth at Makerfaire Singapore 2015
 ## What we intend to show
 - (Royce) A loop antenna with an LED and handheld transceiver demonstrating the shape and variability of a transmitter's RF field.
 - (Roland) An interpretive sign: what amateur radio is, why it's interesting, etc.
-- (Darryl) A basic rig. Perhaps merely for show indoors, perhaps indoors and connected to an outdoor antenna (a cable run has been proposed but neither approved nor refused), perhaps outdoors connected to an antenna.
 - If we can find volunteers to provide the pieces: an HF rig with a 300W linear amplifier and suitable antenna match.
 - TODO Nail this list down; additional unstructured items are fine, this is about the prepared exhibits. For the indoor element, bear space constraints in mind. N.B. BYO Internet.
 
