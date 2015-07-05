@@ -9,7 +9,8 @@ Amateur radio booth at Makerfaire Singapore 2015
 - Antenna(s) and optionally a radio shack on the field. We need to supply everything.
 
 ## What we intend to show
-- (Royce) A loop antenna with an LED and handheld transceiver demonstrating the shape and variability of a transmitter's RF field.
+- (Royce) A loop antenna with a light bulb and HF/UHF transceiver demonstrating the variability of a transmitter's RF field.
+- (Royce and friends) Set up a HF station on the field. Antenna Tuner will be provided by Royce.
 - (Roland) An interpretive sign: what amateur radio is, why it's interesting, etc.
 - If we can find volunteers to provide the pieces: an HF rig with a 300W linear amplifier and suitable antenna match.
 - TODO Nail this list down; additional unstructured items are fine, this is about the prepared exhibits. For the indoor element, bear space constraints in mind. N.B. BYO Internet.
@@ -28,7 +29,7 @@ Amateur radio booth at Makerfaire Singapore 2015
 
 ### Friday 2015-07-10
 
-- 14:00 - 20:00 Setup (WHO?) TODO: which gear will arrive how? Taxi, Lalavan, bus, MRT, ...
+- 14:00 - 20:00 Setup - Royce and friends will carry light items there. If need be, a taxi may be used to carry heavier items. Will ask if anyone can drive first.
 
 ### Saturday 2015-07-11
 
@@ -45,7 +46,7 @@ Time  | Inside 1 | Inside 2 | Outside 1 | Outside 2
 17:00|A|B|F|G
 18:00|A|C|F|G
 
-- 19:00 Stow portable valueable items overnight. (WHO?)
+- 19:00 Stow portable valuable items overnight. (WHO?)
 - 19:15 Networking dinner TODO: who wants to attend?
 
 ### Sunday 2015-07-12
