@@ -47,12 +47,14 @@ Keefe (Possibly)
 
 ### Saturday 2015-07-11
 
+Minister for Education, Mr Heng Swee Keat will be visiting booths between 12 to 1.10pm ish. Note from Science Centre: "Please be on standby and it will be great to have someone from the team who can take the minster through the exhibits during his visit."
+
 - 09:00 - 11:00 Setup - Yong Quan, Xiu Ping, Royce and a few others will be helping to do morning setup.
 
 Time  | Inside 1 | Inside 2 | Outside 1 | Outside 2
 ------|----------|----------|-----------|----------
 11:00|A (WHO?)|B (WHO?)|D (WHO?)|E (WHO?)
-12:00|A|C (WHO?)|D|E
+12:00 **N.B. Ministerial Visit**|A|C (WHO?)|D|E
 13:00|B|C|F (WHO?)|G (WHO?)
 14:00|B|A|F|G
 15:00|C|A|D|E
