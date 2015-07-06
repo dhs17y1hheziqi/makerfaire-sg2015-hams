@@ -27,13 +27,27 @@ Amateur radio booth at Makerfaire Singapore 2015
 
 ## Schedule
 
+## Manpower Available:
+
+School Team:
+Royce
+Jing Jie
+Geraldine
+Xiu Ping
+
+Volunteers:
+Li Wei
+Li Yu
+Yong Quan
+Keefe (Possibly)
+
 ### Friday 2015-07-10
 
 - 14:00 - 20:00 Setup - Royce and friends will carry light items there. If need be, a taxi may be used to carry heavier items. Will ask if anyone can drive first.
 
 ### Saturday 2015-07-11
 
-- 09:00 - 11:00 Setup (WHO?)
+- 09:00 - 11:00 Setup - Yong Quan, Xiu Ping, Royce and a few others will be helping to do morning setup.
 
 Time  | Inside 1 | Inside 2 | Outside 1 | Outside 2
 ------|----------|----------|-----------|----------
