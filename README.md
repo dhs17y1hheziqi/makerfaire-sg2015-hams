@@ -54,7 +54,7 @@ Minister for Education, Mr Heng Swee Keat will be visiting booths between 12 to 
 Time  | Inside 1 | Inside 2 | Outside 1 | Outside 2
 ------|----------|----------|-----------|----------
 11:00|A (WHO?)|B (WHO?)|D (WHO?)|E (WHO?)
-12:00 **N.B. Ministerial Visit**|A|C (WHO?)|D|E
+12:00 **Ministerial Visit**|A|C (WHO?)|D|E
 13:00|B|C|F (WHO?)|G (WHO?)
 14:00|B|A|F|G
 15:00|C|A|D|E
