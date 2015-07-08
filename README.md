@@ -31,15 +31,15 @@ Amateur radio booth at Makerfaire Singapore 2015
 
 School Team:
 Royce
-Jing Jie
-Geraldine
-Xiu Ping
+Jing Jie,
+Geraldine,
+Xiu Ping,
 
 Volunteers:
-Li Wei
-Li Yu
-Yong Quan
-Keefe (Possibly)
+Li Wei,
+Li Yu,
+Yong Quan,
+
 
 ### Friday 2015-07-10
 
@@ -63,7 +63,7 @@ Time  | Inside 1 | Inside 2 | Outside 1 | Outside 2
 18:00|A|C|F|G
 
 - 19:00 Stow portable valuable items overnight. (WHO?)
-- 19:15 Networking dinner TODO: who wants to attend?
+- 19:15 Networking dinner - Royce can attend
 
 ### Sunday 2015-07-12
 
